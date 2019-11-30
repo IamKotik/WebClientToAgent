@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="addressing-1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/addressing-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/axisPlus.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/jaxrpc-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/saaj-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/wsdc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/wss4j-1.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/DynamicClientAddOn-2.7/add-ons/dynamicClient/lib/xmlsec-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

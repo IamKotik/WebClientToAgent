@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/websservicetry/lib/stax-ex.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

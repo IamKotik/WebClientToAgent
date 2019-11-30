@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jadeMisc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/miscAddOn-2.8/add-ons/misc/lib/jadeMisc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

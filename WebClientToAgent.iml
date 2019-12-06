@@ -12,5 +12,6 @@
     <orderEntry type="library" name="addressing-1.1.1" level="project" />
     <orderEntry type="library" name="jadeMisc" level="project" />
     <orderEntry type="library" name="activation-1.1.1" level="project" />
+    <orderEntry type="library" name="postgresql-9.3-1101.jdbc4" level="project" />
   </component>
 </module>

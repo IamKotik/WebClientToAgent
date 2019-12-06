@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-9.3-1101.jdbc4">
+    <CLASSES>
+      <root url="jar://D:/IntelliJIDEA/postgresql-9.3-1101.jdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
